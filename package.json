@@ -1,0 +1,16 @@
+{
+  "name": "china-gypsy",
+  "version": "0.0.1",
+  "author": "Guilherme Vieira (super.driver.512@gmail.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n2liquid/china-gypsy"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.11.2",
+    "marked": "^0.3.3",
+    "restler": "^3.2.2",
+    "semver": "^4.3.0"
+  }
+}
